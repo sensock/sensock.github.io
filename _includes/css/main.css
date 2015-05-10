@@ -327,6 +327,7 @@ form .row:first-child .floating-label-form-group {
 
 footer {
     color: #fff;
+
 }
 
 footer h3 {
@@ -339,12 +340,14 @@ footer .footer-above {
 }
 
 footer .footer-col {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 footer .footer-below {
     padding: 25px 0;
+    color: #2C3E50;
     background-color: #{{ site.color.secondary-dark }};
+
 }
 
 .btn-social {
